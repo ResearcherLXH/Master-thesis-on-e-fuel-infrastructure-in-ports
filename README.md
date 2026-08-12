@@ -1,11 +1,12 @@
-# Master thesis
-Matlab script to quantify and dimension the infrastructure footprints required for enabling e-fuel supply chains within port environments.
-# Spatial Feasibility and Infrastructure Requirements for E-Fuel Supply Chains in Ports
+# [THESIS TITLE]
 
-MATLAB code accompanying the MSc thesis *"Spatial Feasibility and Infrastructure Requirements for E-Fuel Supply Chains in Ports"* by ANTON NEIDERT, Department of Environmental and Energy Sciences, CHALMERS UNIVERSITY OF TECHNOLOGY, 2026.
+MATLAB code accompanying the MSc thesis *"[FULL THESIS TITLE]"* by [YOUR NAME],
+[DEPARTMENT], [UNIVERSITY], [YEAR].
 
+Supervisor: [NAME] · Examiner: [NAME]
 
-The model sizes and costs alternative marine fuel supply chains for a port bunkering demand, comparing four scenarios:
+The model sizes and costs alternative marine fuel supply chains for a port
+bunkering demand, comparing four scenarios:
 
 | Scenario | Fuel     | Share of baseline MGO demand replaced |
 |----------|----------|---------------------------------------|
@@ -99,7 +100,7 @@ useful to an examiner or a follow-on student.)*
 
 If you use this code, please cite the thesis:
 
-> [YOUR NAME] ([YEAR]). *[THESIS TITLE]*. MSc thesis, [CHALMERS UNIVERSITY OF TECHNOLOGY]. [URL/DOI]
+> [YOUR NAME] ([YEAR]). *[THESIS TITLE]*. MSc thesis, [UNIVERSITY]. [URL/DOI]
 
 ## License
 

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the thesis below."
+title: "[SHORT TITLE OF THE CODE, e.g. Marine fuel supply chain sizing model]"
+abstract: "MATLAB model sizing and costing methanol and ammonia bunkering supply chains for a port, accompanying an MSc thesis."
+type: software
+authors:
+  - family-names: "[LAST NAME]"
+    given-names: "[FIRST NAME]"
+    orcid: "https://orcid.org/[YOUR ORCID, or delete this line]"
+    affiliation: "[UNIVERSITY]"
+version: 1.0.0
+date-released: "[YYYY-MM-DD]"
+license: "[SPDX ID, e.g. MIT]"
+repository-code: "https://github.com/[USER]/[REPO]"
+keywords:
+  - marine fuels
+  - methanol
+  - ammonia
+  - supply chain
+  - MATLAB
+references:
+  - type: thesis
+    title: "[FULL THESIS TITLE]"
+    thesis-type: "Master's thesis"
+    authors:
+      - family-names: "[LAST NAME]"
+        given-names: "[FIRST NAME]"
+    institution:
+      name: "[UNIVERSITY]"
+    year: [YEAR]
+    url: "[LINK TO THESIS]"
