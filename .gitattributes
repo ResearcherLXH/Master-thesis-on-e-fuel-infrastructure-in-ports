@@ -1,0 +1,14 @@
+# Normalise line endings. Your .m file is currently CRLF, which makes
+# diffs noisy for anyone on macOS/Linux. This stores it as LF in the
+# repo and checks it out with native endings on Windows.
+*.m       text diff=matlab
+*.md      text
+*.csv     text
+*.cff     text
+
+# Never try to diff or merge these as text
+*.xlsx    binary
+*.mat     binary
+*.png     binary
+*.pdf     binary
+*.fig     binary
