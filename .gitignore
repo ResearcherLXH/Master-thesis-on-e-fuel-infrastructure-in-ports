@@ -1,0 +1,39 @@
+# ── MATLAB ────────────────────────────────────────────────
+# editor autosaves and backups
+*.asv
+*.m~
+*.autosave
+# compiled MEX binaries
+*.mex*
+slprj/
+sccprj/
+codegen/
+*.slxc
+octave-workspace
+
+# Saved workspaces — regenerate rather than commit
+*.mat
+
+# ── Generated output ──────────────────────────────────────
+figures/*
+!figures/.gitkeep
+results/
+*.png
+*.eps
+*.svg
+*.fig
+
+# ── Data ──────────────────────────────────────────────────
+# Nothing under data/ is tracked by default. Un-ignore files you
+# have the right to redistribute, e.g.:
+#   !data/generation_profile.csv
+data/*
+!data/.gitkeep
+!data/README.md
+
+# ── OS / editor cruft ─────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
