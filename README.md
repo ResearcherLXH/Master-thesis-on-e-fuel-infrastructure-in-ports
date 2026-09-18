@@ -12,10 +12,10 @@ The model sizes and costs alternative marine fuel supply chains for a port bunke
 | D        | Ammonia  | 100 %                                 |
 
 **Config 1: E-Fuel Import and Distribution Hub.**
-This scenario evaluates the port functioning as a distribution and refuelling node for fuel produced off-site. The configuration includes receiving terminals, storage tank farms, internal transfer systems, and the final bunkering interfaces, but excludes hydrogen and e-fuel production, and e-fuel dehydrogenation. 
+Port functioning as a distribution and refuelling node for fuel produced off-site.
 
 **Config 2: On-site Hydrogen and E-Fuel Production Hub.**
-Hydrogen is produced from renewable electricity and converted on site into e-methanol or e-ammonia. The configuration includes electrolysis, hydrogen buffering, CO2 or N2 supply, fuel synthesis, storage, internal transfer, and bunkering.
+Hydrogen is produced from renewable electricity and converted on site into e-methanol or e-ammonia.
 
 
 > **Full text of the thesis:** [LINK TO UNIVERSITY REPOSITORY / DOI]
