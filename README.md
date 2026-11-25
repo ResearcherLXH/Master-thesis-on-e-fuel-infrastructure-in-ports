@@ -18,7 +18,7 @@ Port functioning as a distribution and refuelling node for fuel produced off-sit
 Hydrogen is produced from renewable electricity and converted on site into e-methanol or e-ammonia.
 
 
-> **Full text of the thesis:** [LINK TO UNIVERSITY REPOSITORY / DOI]
+> **Full text of the thesis: https://hdl.handle.net/20.500.12380/312507
 
 ---
 
@@ -38,10 +38,10 @@ Hydrogen is produced from renewable electricity and converted on site into e-met
 
 ## Requirements
 
-- MATLAB **[YOUR VERSION, e.g. R2023b]** or newer. Run `ver` in MATLAB and paste
+- MATLAB R2023b or newer. Run `ver` in MATLAB and paste
   the version you actually used — this is the single most useful line in the
   whole README for anyone trying to reproduce the results.
-- Toolboxes: **[LIST, or "none — base MATLAB only"]**. Check with
+- Toolboxes: **[base MATLAB only]**. Check with
   `matlab.codetools.requiredFilesAndProducts('src/run_supply_chain_model.m')`.
 
 ## How to run
@@ -103,9 +103,9 @@ useful to an examiner or a follow-on student.)*
 
 If you use this code, please cite the thesis:
 
-> [YOUR NAME] ([YEAR]). *[THESIS TITLE]*. MSc thesis, [UNIVERSITY]. [URL/DOI]
+> Anton Neidert (2026). Spatial feasibility and infrastructure requirements for E-fuel supply chains in ports. MSc thesis, Chalmers University of Technology. https://hdl.handle.net/20.500.12380/312507
 
 ## License
 
-Code released under **[LICENSE NAME]** — see [LICENSE](LICENSE).
+Code released under **[LICENSE_PortIHE]** — see [LICENSE](LICENSE).
 Input data in `data/` is subject to its own terms; see `data/README.md`.
